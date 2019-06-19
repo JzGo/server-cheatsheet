@@ -6,4 +6,5 @@ Explored so far:
 
 - [Ruby + Sinatra](./ruby-sinatra)
 - [Node](./js-node)
-- [Express](./js-express)
+- [Javascript + Express](./js-express)
+- [Python + Flask](./python-flask)
