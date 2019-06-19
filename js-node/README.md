@@ -43,5 +43,5 @@ Lastly use node to run the file in the terminal:
 node server.js
 ```
 
-Visit the port you specified and be amazed!
+Visit localhost at the port you specified and be amazed!
 
